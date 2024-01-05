@@ -1,3 +1,5 @@
+Sir, Please go through scrpt.js file
+
 Task 6 :
  ARRAY METHODS
 
